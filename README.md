@@ -1,8 +1,9 @@
 # Project-04-Binary-Tree
 Project04 of CS203 Object Oriented Programming 
+By Zaid Ali
 This is an implemmentation of a Binary Tree, which has the following capabilities:
 
-By Zaid Ali
+
 
 Insert a node
 Clear the tree
