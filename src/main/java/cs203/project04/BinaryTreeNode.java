@@ -30,7 +30,7 @@ public class BinaryTreeNode<T> implements TreeNode<T>{
     }
 
     public void setLeft(TreeNode<T> left){
-            this.left=(BinaryTreeNode)left;
+            this.left=left;
         
     
     }
@@ -40,7 +40,7 @@ public class BinaryTreeNode<T> implements TreeNode<T>{
 
     public void setRight(TreeNode<T> right){
         
-            this.right=(BinaryTreeNode)right;
+            this.right=right;
         
     }
 
